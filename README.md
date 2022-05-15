@@ -20,7 +20,7 @@
 
   ![Snake animation](https://github.com/gabrielalvesfs/gabrielalvesfs/blob/output/github-contribution-grid-snake.svg)
 
-h3><p align="center">Total de visitas no perfil:</p>
+<h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/GabrielAlvesFS/count.svg"/>
 </p>
