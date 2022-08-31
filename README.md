@@ -1,26 +1,21 @@
-## Hello! I'm Gabriel 👋🏽
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=2EA043&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Gabriel+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
+
+
 <div align="center">
   <a href="https://github.com/gabrielalvesfs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielalvesfs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalvesfs&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-<div style="display: inline_block;"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-</div>
-  
-  ##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/gabrielalvesfs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielalvesfs&show_icons=true&count_private=true&hide_border=true&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalvesfs&layout=compact&hide_border=true&title_color=2EA043&text_color=2EA043&bg_color=0d1117""/>
 </div>
 
-  ![Snake animation](https://github.com/gabrielalvesfs/gabrielalvesfs/blob/output/github-contribution-grid-snake.svg)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielAlvesFS&theme=gotham&hide_border=true&area=true&line=2EA043&bg_color=0d1117)
 
-<h3><p align="center">Total de visitas no perfil:</p>
-<p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/GabrielAlvesFS/count.svg"/>
-</p>
+<div align="center">
+  <p align="center"> <strong> Visitors Count </strong> </p>
+  <p align="center">
+      <img alingn="center" src="https://profile-counter.glitch.me/GabrielAlvesFS/count.svg"/>
+  </p>
+</div> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2EA043&height=120&section=footer"/>
