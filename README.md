@@ -18,11 +18,14 @@
   <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 <br>
+<div align="center"> 
+    <a href="https://www.linkedin.com/in/gabrielalvesfs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=GabrielAlvesFS&theme=gotham&hide_border=true&area=true&line=2EA043&bg_color=0d1117)
 
 <div align="center">
-  <p align="center"> <strong> Visitors Count </strong> </p>
+  <h3><p align="center">Visitors Count</p> 
   <p align="center">
       <img alingn="center" src="https://profile-counter.glitch.me/GabrielAlvesFS/count.svg"/>
   </p>
