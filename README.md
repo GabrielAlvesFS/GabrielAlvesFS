@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/gabrielalvesfs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-![Contribution](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielAlvesFS&theme=gotham&hide_border=true&area=true&line=2EA043&bg_color=0d1117)
+![Contribution]([https://github-readme-activity-graph.cyclic.app/graph?username=GabrielAlvesFS&theme=gotham&hide_border=true&area=true&line=2EA043&bg_color=0d1117](https://github-readme-activity-graph.vercel.app/graph?username=GabrielAlvesFS&bg_color=0d1117&color=ffffff&line=226c33&point=007f09&area=true&hide_border=true)
 
 <div align="center">
   <h3><p align="center">Visitors Count</p> 
